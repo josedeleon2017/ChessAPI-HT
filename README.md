@@ -27,4 +27,4 @@ https://github.com/opensource-apple/kext_tools/blob/master/compression.c
 
 El resultado comprimido en la API de dotnet se mostraba de la siguiente manera.
 
-![plot](./img/dotnet_compresion.png)
+![plot](./img/dotnet_compression.png)
